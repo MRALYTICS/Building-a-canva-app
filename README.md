@@ -1,4 +1,5 @@
 # Building-a-canva-app
+# BUSINESS PROBLEM/OBJECTIVE
  we will generate a canvas app where the data source is a Microsoft Excel workbook that is stored in Microsoft OneDrive for Business. This Excel workbook has a table of different buildings owned by Contoso Manufacturing. Today, they must email the shared workbook between people as they travel to different locations to make updates. With a Power Apps canvas app, they will be able to view the buildings directly from their phones. In addition, they will also be able to edit the information and even add new buildings.
 
 This example uses Excel, but keep in mind that you can use data from many other sources, including Microsoft Dataverse, Microsoft SharePoint, cloud services like Salesforce, and on-premises sources like Microsoft SQL Server. This gives you the flexibility to build your app from your data no matter where it lives. You can also combine data sources within Power Apps to easily create associations between different data sources
